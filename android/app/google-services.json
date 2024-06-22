@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "1076497572853",
+    "firebase_url": "https://facebook-clone-39cb9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "facebook-clone-39cb9",
+    "storage_bucket": "facebook-clone-39cb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076497572853:android:2a33bed1db7062d1c9b6bc",
+        "android_client_info": {
+          "package_name": "com.example.firebase_storage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCobC5P_bT-gCQheDWU4QMbFEBtrMbcNR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076497572853:android:312997e53f20c8f8c9b6bc",
+        "android_client_info": {
+          "package_name": "com.example.location_sharing_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCobC5P_bT-gCQheDWU4QMbFEBtrMbcNR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076497572853:android:1171343644448e5bc9b6bc",
+        "android_client_info": {
+          "package_name": "com.example.mad_etr_server"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCobC5P_bT-gCQheDWU4QMbFEBtrMbcNR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076497572853:android:ccd1ca9991291c3dc9b6bc",
+        "android_client_info": {
+          "package_name": "com.mad2inc.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCobC5P_bT-gCQheDWU4QMbFEBtrMbcNR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076497572853:android:9d4d8cb570d9ed24c9b6bc",
+        "android_client_info": {
+          "package_name": "com.mad2inc.locationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCobC5P_bT-gCQheDWU4QMbFEBtrMbcNR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
